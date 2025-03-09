@@ -8,7 +8,7 @@ To install requirements:
 
     conda env create -f environment.yml
 
-To download the dataset and setup the folders:
+To download the dataset and setup the folders (In fact, some datasets have already been downloaded):
 
     bash setup_script.sh  
 
